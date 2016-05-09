@@ -5,3 +5,4 @@ util/build
 *~
 web/app-info.txt
 web/pom.xml
+.gradle/
